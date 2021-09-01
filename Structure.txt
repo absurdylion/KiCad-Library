@@ -1,0 +1,7 @@
+Structure
+KiCad-Librares:
+	-library (.lib .dcm)
+	-modules
+		-*.pretty (.kicad_mod)
+		-packages3d
+			-*.3dshapes (.step .wrl)
