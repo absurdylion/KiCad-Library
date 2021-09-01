@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tns:JPK xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy" xmlns:tns="http://jpk.mf.gov.pl/wzor/2017/11/13/1113/">
+	<tns:Naglowek>
+		<tns:KodFormularza kodSystemowy="JPK_VAT (3)" wersjaSchemy="1-1">JPK_VAT</tns:KodFormularza>
+		<tns:WariantFormularza>3</tns:WariantFormularza>
+		<tns:CelZlozenia>0</tns:CelZlozenia>
+		<tns:DataWytworzeniaJPK>2021-02-09T16:52:31</tns:DataWytworzeniaJPK>
+		<tns:DataOd>2021-02-01</tns:DataOd>
+		<tns:DataDo>2021-02-28</tns:DataDo>
+		<tns:NazwaSystemu>Zafirmowani.pl</tns:NazwaSystemu>
+	</tns:Naglowek>
+	<tns:Podmiot1>
+		<tns:NIP>5552127126</tns:NIP>
+		<tns:PelnaNazwa>RnD Jakub Wirkus</tns:PelnaNazwa>
+		<tns:Email>jakub.wirk@gmail.com</tns:Email>
+	</tns:Podmiot1>
+	<tns:ZakupWiersz>
+		<tns:LpZakupu>1</tns:LpZakupu>
+		<tns:NrDostawcy>5260309174</tns:NrDostawcy>
+		<tns:NazwaDostawcy>AUCHAN POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:NazwaDostawcy>
+		<tns:AdresDostawcy>ul. Puławska 46,  Piaseczno 05-500</tns:AdresDostawcy>
+		<tns:DowodZakupu>369434/0400</tns:DowodZakupu>
+		<tns:DataZakupu>2021-02-05</tns:DataZakupu>
+		<tns:K_45>72.40</tns:K_45>
+		<tns:K_46>16.65</tns:K_46>
+	</tns:ZakupWiersz>
+	<tns:ZakupCtrl>
+		<tns:LiczbaWierszyZakupow>1</tns:LiczbaWierszyZakupow>
+		<tns:PodatekNaliczony>16.65</tns:PodatekNaliczony>
+	</tns:ZakupCtrl>
+</tns:JPK>

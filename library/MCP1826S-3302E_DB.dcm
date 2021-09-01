@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1826S-3302E_DB
+D LDO Regulator 1A 3.3V SOT223-3 MCP1826S-3302E/DB, Low Dropout Voltage Regulator, 1A, 3.3 V +/-2%, 2.3  6 Vin, 4-Pin SOT-223
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf
+$ENDCMP
+#
+#End Doc Library

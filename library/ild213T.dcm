@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ILD213T
+D ILD213T
+F http://www.vishay.com/docs/83647/ild205t.pdf
+$ENDCMP
+# end doc library

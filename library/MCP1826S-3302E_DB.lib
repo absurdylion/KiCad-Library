@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP1826S-3302E_DB
+#/159015/419621/2.48/4/3/Integrated Circuit
+DEF MCP1826S-3302E_DB IC 0 30 Y Y 1 F N
+F0 "IC" 1650 300 50 H V L CNN
+F1 "MCP1826S-3302E_DB" 1650 200 50 H V L CNN
+F2 "SOT230P700X180-4N" 1650 100 50 H I L CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf" 1650 0 50 H I L CNN
+F4 "LDO Regulator 1A 3.3V SOT223-3 MCP1826S-3302E/DB, Low Dropout Voltage Regulator, 1A, 3.3 V +/-2%, 2.3  6 Vin, 4-Pin SOT-223" 1650 -100 50 H I L CNN "Description"
+F5 "1.8" 1650 -200 50 H I L CNN "Height"
+F6 "Microchip" 1650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MCP1826S-3302E/DB" 1650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "579-MCP1826S-3302EDB" 1650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1826S-3302E-DB?qs=gsqZ4L1luKqjUo%2Fe%2Fgllfg%3D%3D" 1650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MCP1826S-3302E/DB" 1650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mcp1826s-3302edb/microchip-technology" 1650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 P
+X GND_(TAB)_1 2 0 -100 200 R 50 50 0 0 P
+X VOUT 3 0 -200 200 R 50 50 0 0 P
+X GND_(TAB)_2 4 1800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

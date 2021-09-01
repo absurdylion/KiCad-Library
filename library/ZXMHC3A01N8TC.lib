@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ZXMHC3A01N8TC
+#/277592/419621/2.48/8/3/Transistor
+DEF ZXMHC3A01N8TC Q 0 30 Y Y 1 F N
+F0 "Q" 1250 300 50 H V L CNN
+F1 "ZXMHC3A01N8TC" 1250 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1250 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/7515341" 1250 0 50 H I L CNN
+F4 "Diodes Inc ZXMHC3A01N8TC Quad N/P-channel MOSFET, 2.1 A, 2.7 A, 30 V, 8-Pin SOIC" 1250 -100 50 H I L CNN "Description"
+F5 "1.75" 1250 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ZXMHC3A01N8TC" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "522-ZXMHC3A01N8TC" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMHC3A01N8TC?qs=7E5rbXJDVJqFKGGBzjK9UA%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ZXMHC3A01N8TC" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/zxmhc3a01n8tc/diodes-incorporated" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X N1G 1 0 0 200 R 50 50 0 0 I
+X N1D/P1D 2 0 -100 200 R 50 50 0 0 B
+X N1S/N2S 3 0 -200 200 R 50 50 0 0 W
+X N2G 4 0 -300 200 R 50 50 0 0 I
+X P1G 8 1400 0 200 L 50 50 0 0 I
+X P1S/P2S 7 1400 -100 200 L 50 50 0 0 W
+X N2D/P2D 6 1400 -200 200 L 50 50 0 0 B
+X P2G 5 1400 -300 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
